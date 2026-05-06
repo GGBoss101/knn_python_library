@@ -1,1 +1,1 @@
-# Dhairya's K-Nearest Neighbors LibraryCan be imported by placing the following at the start of your python file:- from knn_package import KNN<br>or:- from knn_package import *- Then use KNN as needed.
+# Dhairya's K-Nearest Neighbors LibraryCan be imported by placing the following at the start of your python file:- from knn_package import KNN<br>or:- from knn_package import *

@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "knn"
 version = "0.0.1"
-dependencies = ["numpy", "math"]
+dependencies = ["numpy"]
 authors = [{name = "Dhairya Chopra", email = "dhairyachopra2005@gmail.com"}]
 description = "K-Nearest Neighbors model"
 readme = "README.md"

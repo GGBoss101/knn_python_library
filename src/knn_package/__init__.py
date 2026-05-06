@@ -1,1 +1,3 @@
-from .KNN import KNN__all__ = ["KNN"]
+from .KNN import KNN
+
+__all__ = ["KNN"]
